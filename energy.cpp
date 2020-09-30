@@ -29,4 +29,7 @@ int main() {
   r=-t*(f-i)*4184;
   cout<<"The energy needed is "<<r;
 	return 0;
+
 }
+
+//Just a comment
